@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bright Future Academy</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+
+<body>
+
+<header>
+<div class="logo">Bright Future Academy</div>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="location.html">Location</a></li>
+<li><a class="cta" href="#">Register Now</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="hero fade">
+<h1>Welcome to Bright Future Academy</h1>
+<p>Empowering students with knowledge, innovation and opportunity.</p>
+</section>
+
+<section class="gallery-section fade">
+<h2>School Life Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/classroom.jpg" alt="classroom">
+<img src="images/library.jpg" alt="library">
+<img src="images/students.jpg" alt="students">
+<img src="images/science.jpg" alt="science lab">
+<img src="images/sports.jpg" alt="sports">
+<img src="images/graduation.jpg" alt="graduation">
+
+</div>
+</section>
+
+<footer>
+
+<p>Follow Us</p>
+
+<div class="socials">
+<a href="#">Facebook</a>
+<a href="#">Instagram</a>
+<a href="#">Twitter</a>
+<a href="#">YouTube</a>
+</div>
+
+<p>© 2026 Bright Future Academy</p>
+
+</footer>
+
+</body>
+</html>

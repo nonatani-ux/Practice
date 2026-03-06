@@ -60,3 +60,72 @@
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Courses</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+
+<body>
+
+<header>
+<div class="logo">Bright Future Academy</div>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="courses.html">Courses</a></li>
+<li><a href="location.html">Location</a></li>
+<li><a class="cta" href="#">Register Now</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="fade">
+<h1>Our Courses</h1>
+
+<div class="courses">
+
+<div class="course">
+<img src="images/science.jpg">
+<h3>Science & Technology</h3>
+<p>Advanced laboratories and modern technology education.</p>
+</div>
+
+<div class="course">
+<img src="images/business.jpg">
+<h3>Business Studies</h3>
+<p>Learn entrepreneurship, accounting and leadership.</p>
+</div>
+
+<div class="course">
+<img src="images/art.jpg">
+<h3>Creative Arts</h3>
+<p>Explore creativity through art, music and media.</p>
+</div>
+
+</div>
+</section>
+
+<footer>
+
+<p>Follow Us</p>
+
+<div class="socials">
+<a href="#">Facebook</a>
+<a href="#">Instagram</a>
+<a href="#">Twitter</a>
+<a href="#">YouTube</a>
+</div>
+
+<p>© 2026 Bright Future Academy</p>
+
+</footer>
+
+</body>
+</html>
